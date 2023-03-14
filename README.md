@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, my name is Štěpán</h1>
-<h3 align="center">Student at the Czech technical university and Czech university of life sciences</h3>
-
-- 🔭 I’m currently working with [Operátor ICT](https://operatorict.cz/)
+<h1 align="center">Hi 👋</h1>
 
 - 🌱 I’m currently learning **Powershell, Active Directory**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stepedes?tab=repositories](https://github.com/stepedes?tab=repositories)
-
-- 📫 How to reach me **stepan.stanek1@icloud.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/stepan-stanek1/](https://www.linkedin.com/in/stepan-stanek1/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
